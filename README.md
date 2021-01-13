@@ -1,10 +1,12 @@
 # CB 3D
-3D model of the school created by the 3D Enthusiast's club.
+Model of the school created by the 3D Enthusiast's club.
 
 To view the current model, download the files and open the Atrium8.obj file.
 
 You can open the .blend files with Blender (they aren't the latest version). If the textures don't show up you might need to use File > External Data > Find Missing Files and navigate to the textures folder.
 
-A view of the model and comparison with real life.
+A comparison with real life and another view of the model.
 
-![Atrium](https://agentxindustries.neocities.org/Atrium/Atrium8.gif)
+![Atrium 1](https://agentxindustries.neocities.org/Atrium/Atrium8.gif)
+
+![Atrium 2](https://agentxindustries.neocities.org/Atrium/Atrium8b.jpg)
